@@ -1,0 +1,11 @@
+D:\Learning\HK4\Lap trinh Windows\PaintClone\bin\Debug\PaintClone.exe.config
+D:\Learning\HK4\Lap trinh Windows\PaintClone\bin\Debug\PaintClone.exe
+D:\Learning\HK4\Lap trinh Windows\PaintClone\bin\Debug\PaintClone.pdb
+D:\Learning\HK4\Lap trinh Windows\PaintClone\obj\Debug\PaintClone.csproj.AssemblyReference.cache
+D:\Learning\HK4\Lap trinh Windows\PaintClone\obj\Debug\PaintClone.csproj.SuggestedBindingRedirects.cache
+D:\Learning\HK4\Lap trinh Windows\PaintClone\obj\Debug\PaintClone.Form1.resources
+D:\Learning\HK4\Lap trinh Windows\PaintClone\obj\Debug\PaintClone.Properties.Resources.resources
+D:\Learning\HK4\Lap trinh Windows\PaintClone\obj\Debug\PaintClone.csproj.GenerateResource.cache
+D:\Learning\HK4\Lap trinh Windows\PaintClone\obj\Debug\PaintClone.csproj.CoreCompileInputs.cache
+D:\Learning\HK4\Lap trinh Windows\PaintClone\obj\Debug\PaintClone.exe
+D:\Learning\HK4\Lap trinh Windows\PaintClone\obj\Debug\PaintClone.pdb
